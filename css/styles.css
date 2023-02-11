@@ -272,7 +272,7 @@ portfolio section */
 
 .people-list{
     display: flex;
-    margin-bottom: 120px;
+    padding-bottom: 120px;
 
 }
 
