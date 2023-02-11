@@ -346,6 +346,38 @@ portfolio section */
     background-color: #404BBF;
 }
 
+.cust-head{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    text-align: center;
+    padding-top: 130px;
+    margin-bottom: 72px;
+}
+
+.cust-list{
+    display: flex;
+    gap: 24px;
+    padding-bottom: 120px;
+}
+
+.cust-item{
+    width: 168px;
+    height: 88px;
+}
+
+.cust-link{
+    width: 100%;
+    height: 100%;
+    border: 1px solid #8E8F99;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 /* Footer */
 
 .footer{
