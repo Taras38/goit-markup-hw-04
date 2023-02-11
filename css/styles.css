@@ -378,6 +378,18 @@ portfolio section */
     justify-content: center;
 }
 
+.cust-icon{
+    fill: #8e8f99 ;
+}
+
+.cust-link:is(:hover, :focus){
+    border-color: #404BBF;
+}
+
+.cust-link:is(:hover, :focus) .cust-icon{
+    fill: #404BBF;
+}
+
 /* Footer */
 
 .footer{
