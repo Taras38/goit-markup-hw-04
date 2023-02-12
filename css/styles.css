@@ -489,6 +489,9 @@ portfolio section */
 }
 
 .footer-icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     fill:#F4F4FD;
 }
 
